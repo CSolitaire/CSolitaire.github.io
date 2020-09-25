@@ -1,8 +1,8 @@
 # Professional Projects and Presentations Repository:
 
-## Click on a link to explore my portfolio
+## Click on a link to explore my portfolio -
 
-1. **Story Telling Project** - Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans
+### **Story Telling Project** - Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans
 
 [Story Telling Project Link](/telco_visualization.pdf)
 
