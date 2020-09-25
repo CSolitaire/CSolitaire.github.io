@@ -1,10 +1,10 @@
-# Welcome to my Work Repository (1 #)
+# Welcome to my Work Repository
 
-## Lets see what this does (2 ##)
+## Professional Projects and Presentations
+- Click on a link to explore my protforlio
 
-- Click on a Link
-- Follow the Instructions
+1. [Telco](CSolitaire.github.io/telco_visualization.pdf)
 
-1. This should be an itemed list
+2. [Classification Project - Predicting Customer Churn](https://github.com/CSolitaire/telco_churn)
 
-2. This should also be an itemed list
+3. Regression Project - Estimating Home Values
