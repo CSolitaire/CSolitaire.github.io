@@ -4,6 +4,7 @@
 
 ### **Story Telling Project** 
 **Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans**
+****
 
 [Story Telling Project Link](/telco_visualization.pdf)
 
