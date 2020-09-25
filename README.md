@@ -1,8 +1,10 @@
-# Welcome to my Professional Projects and Presentations Repository:
+# Professional Projects and Presentations Repository:
 
-### Click on a link to explore my protforlio
+## Click on a link to explore my portfolio
 
-1. [Story Telling Project - Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans](/telco_visualization.pdf)
+1. **Story Telling Project** - Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans
+
+[Story Telling Project Link](/telco_visualization.pdf)
 
 **Overview:**
 - 3 minute presentation delivered via zoom consisting of a data-based recommendation of a data driven change that will lead to a reduction in churn
@@ -11,6 +13,7 @@
 
 
 2. [Classification Project - Predicting Customer Churn](https://github.com/CSolitaire/telco_churn)
+
 **Overview:**
 - 5 min presentation delivered via zoom consisting of a complete walk-through of the data science pipeline and ending with a churn prediction model
 - Created and presented in Jupyter Notebook with a machine learning model optimized to predict customer churn
