@@ -28,5 +28,5 @@
 ### **Regression Project** 
 **Estimating Home Value With Machine Learning**
 
-**Overviwe:**
+**Overview:**
 -Comming Soon!
