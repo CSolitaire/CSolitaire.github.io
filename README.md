@@ -12,7 +12,7 @@
 - Created in google slides, and utilizes visualizations from Tableau to support reccomendations and model outcomes
 - Audience: VP of ops + their team, VP of Sales will receive the presentation but will not be present 
 
-
+****
 ### **Classification Project**
 **Predicting Churn With Machine Learning**
 
@@ -23,7 +23,7 @@
 - Created and presented in Jupyter Notebook with a machine learning model optimized to predict customer churn
 - Audience: Data science professionals
 
-
+****
 ### **Regression Project** 
 **Estimating Home Value With Machine Learning**
 
