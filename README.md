@@ -21,12 +21,17 @@
 
 **Overview:**
 - 5 min presentation delivered via zoom consisting of a complete walk-through of the data science pipeline and ending with a churn prediction model
-- Created and presented in Jupyter Notebook with a machine learning model optimized to predict customer churn
+- Created and delivered in Jupyter Notebook with a machine learning model optimized to predict customer churn
 - Audience: Data science professionals
 
 ****
 ### **Regression Project** 
-**Estimating Home Value With Machine Learning**
+**Estimating Property Tax Value With Machine Learning**
+
+[Regression Project Link](https://github.com/CY-Data-Services/zillow_regression_project)
+[Regression Project Slidedeck](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
 
 **Overview:**
--Comming Soon!
+- 5 min group presentation delivered via zoom consisting of a slidedeck outlining production of property tax regression model
+- Created in Jupyter Notebook, delivered in Google Slides
+- Audience: Data science professionals 
