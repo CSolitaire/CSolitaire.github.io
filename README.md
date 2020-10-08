@@ -28,7 +28,7 @@
 ### **Regression Project** 
 **Estimating Property Tax Value With Machine Learning**
 
-[Regression Project Link](https://github.com/CY-Data-Services/zillow_regression_project)
+[Regression Project Link](https://github.com/CY-Data-Services/zillow_regression_project)   
 [Regression Project Slidedeck](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
 
 **Overview:**
