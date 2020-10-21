@@ -37,3 +37,14 @@
 - 5 min group presentation delivered via zoom consisting of a slidedeck outlining production of property tax regression model
 - Created in Jupyter Notebook, delivered in Google Slides
 - Audience: Data science professionals 
+
+***
+### **Clustering Project**
+**Estimating Logerror With Clustering and Machine Learning**
+
+[Clustering Project Link](https://github.com/CSolitaire/zillow_cluster_project)
+
+**Overview**
+- 5 min presentation delivered via zoom outlining creation and modeling of cluster data
+- Created and presented in Jupyter Notebook
+- Audience: Data science professionals
