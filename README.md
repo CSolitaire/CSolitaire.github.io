@@ -48,3 +48,14 @@
 - 5 min presentation delivered via zoom outlining creation and modeling of cluster data
 - Created and presented in Jupyter Notebook
 - Audience: Data science professionals
+
+***
+### **Time Series Project**
+**Predicting Fitness Data with Time Series Analysis**
+
+[Time Series Project Link](https://github.com/CSolitaire/fitbit_time_series_project)
+
+**Overview**
+- Side project reconstructimng missing data using time series analysis
+- Created in Jupyter Notebook
+- Audience: Data Science Professionals
