@@ -31,7 +31,7 @@
 [Regression Project Link](https://github.com/CY-Data-Services/zillow_regression_project)   
 
 
-[Regression Project Slidedeck](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
+[Regression Project Slide Deck](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
 
 **Overview:**
 - 5 min group presentation delivered via zoom consisting of a slidedeck outlining production of property tax regression model
@@ -65,7 +65,9 @@
 ### **Anomaly Detection Mini-Project**
 **Identifying abnormal web traffic**
 
-[Anomaly Detections Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)
+[Anomaly Detection Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)     
+[
+Anomaly Detection Summary Slide](https://docs.google.com/presentation/d/16bXdsvtSRDfHJDbqBV_l1kIVWSinuuww9qQdHHIPc5Y/edit?usp=sharing)   
 
 **Overview**
 - Answer to stakeholder questions with accompanyting summary slide
