@@ -56,6 +56,18 @@
 [Time Series Project Link](https://github.com/CSolitaire/fitbit_time_series_project)
 
 **Overview**
-- Side project reconstructimng missing data using time series analysis
+- Passion project reconstructimng missing data using time series analysis
 - Created in Jupyter Notebook
 - Audience: Data Science Professionals
+
+
+***
+### **Anomaly Detection Mini-Project**
+**Identifying abnormal web traffic**
+
+[Anomaly Detections Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)
+
+**Overview**
+- Answer to stakeholder questions with accompanyting summary slide
+- Created in Jupyter Notebook
+- Audienece: Data Science Professionals
