@@ -65,7 +65,8 @@
 ### **Anomaly Detection Mini-Project**
 **Identifying abnormal web traffic**
 
-[Anomaly Detection Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)     
+[Anomaly Detection Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)  
+
 [Anomaly Detection Summary Slide](https://docs.google.com/presentation/d/16bXdsvtSRDfHJDbqBV_l1kIVWSinuuww9qQdHHIPc5Y/edit?usp=sharing)   
 
 **Overview**
@@ -79,6 +80,7 @@
 **Classify primary language of GitHub README text**
 
 [NLP Project Link](https://github.com/AC-Readme/nlp_project)
+
 [Anomaly Detection Slide Deck](https://docs.google.com/presentation/d/1uExigdX1uRlbnQSTpSOJH3AbTJnThjOM9qoH-pVSvig/edit?usp=sharing)
 
 **Overview**
