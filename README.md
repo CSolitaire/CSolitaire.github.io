@@ -75,7 +75,7 @@
 
 
 ***
-### **Natrual Language Processing Project**
+### **Natural Language Processing Project**
 **Classify primary language of GitHub README text**
 
 [NLP Project Link](https://github.com/AC-Readme/nlp_project)
