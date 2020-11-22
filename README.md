@@ -66,10 +66,22 @@
 **Identifying abnormal web traffic**
 
 [Anomaly Detection Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)     
-[
-Anomaly Detection Summary Slide](https://docs.google.com/presentation/d/16bXdsvtSRDfHJDbqBV_l1kIVWSinuuww9qQdHHIPc5Y/edit?usp=sharing)   
+[Anomaly Detection Summary Slide](https://docs.google.com/presentation/d/16bXdsvtSRDfHJDbqBV_l1kIVWSinuuww9qQdHHIPc5Y/edit?usp=sharing)   
 
 **Overview**
-- Answer to stakeholder questions with accompanyting summary slide
+- Answer stakeholder questions and develop accompanyting summary slide
 - Created in Jupyter Notebook
 - Audienece: Data Science Professionals
+
+
+***
+### **Natrual Language Processing Project**
+**Classify primary language of GitHub README text**
+
+[NLP Project Link](https://github.com/AC-Readme/nlp_project)
+[Anomaly Detection Slide Deck](https://docs.google.com/presentation/d/1uExigdX1uRlbnQSTpSOJH3AbTJnThjOM9qoH-pVSvig/edit?usp=sharing)
+
+**Overview**
+- Predict GitHub repository README text primary programing language using Bag of Words and IF-IDF feature selection tools
+- Created in Jupyter Notebook
+- Audience: General(Informal)
