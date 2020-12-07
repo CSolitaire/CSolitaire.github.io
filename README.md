@@ -88,3 +88,16 @@
 - Created in Jupyter Notebook
 - Audience: General(Informal)
 
+
+***
+### **Topic Modeling Project**
+**Topic Modeleing of Geological GitHub README text**
+
+[Topic Modeling Project Link](https://github.com/CSolitaire/nlp_topic_modeling_project)
+
+[Topic Modeling Slide Deck](https://docs.google.com/presentation/d/1OIm27l0bVpZ_2eKB4S-uJLtNjd41P13Yy8sQVL9RzLs/edit?usp=sharing)
+
+**Overview**
+- Predict topics associated with Geology based GitHub repository README text using topic modeling and LDA feature selection tools
+- Created in Jupyter Notebook
+- Audience: Professional
