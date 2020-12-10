@@ -105,11 +105,11 @@
 
 ***
 ### **Capstone Project**
-**Evaluating the CDC's Social Vulnerability Index (SVI) as a tool to predict COVID infections in San Antonio Texas**
-[Capstone Project Link](https://github.com/SVI-Capstone/svi_capstone)
-[Capstone Project Video]()
+**Evaluating the CDC's Social Vulnerability Index (SVI) as a tool to predict COVID infections in San Antonio Texas**   
+[Capstone Project Link](https://github.com/SVI-Capstone/svi_capstone)   
+[Capstone Project Video]()   
 
 **Overview**
-- The CDC's social vulnerability index (SVI) is a scale that predicts the vulnerability of a population in the event of an emergency or natural disaster. As COVID is the first global pandemic since the development of this measure, we aim to evaluate the association between SVI score and COVID infection count in San Antonio, Texas. Features from this measure will be incorporated into a predictive model that can be used to guide recovery resource prioritization. 
-- Created in Jupyter Notebook
-- Audience: General
+- The CDC's social vulnerability index (SVI) is a scale that predicts the vulnerability of a population in the event of an emergency or natural disaster. As COVID is the first global pandemic since the development of this measure, we aim to evaluate the association between SVI score and COVID infection count in San Antonio, Texas. Features from this measure will be incorporated into a predictive model that can be used to guide recovery resource prioritization.    
+- Created in Jupyter Notebook   
+- Audience: General   
