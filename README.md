@@ -107,6 +107,7 @@
 ### **Capstone Project**
 **Evaluating the CDC's Social Vulnerability Index (SVI) as a tool to predict COVID infections in San Antonio Texas**   
 [Capstone Project Link](https://github.com/SVI-Capstone/svi_capstone)   
+
 [Capstone Project Video]()   
 
 **Overview**
