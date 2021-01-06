@@ -17,7 +17,7 @@
 ### **Classification Project**
 **Predicting Churn With Machine Learning**
 
-[Classification Project Link](https://github.com/CSolitaire/telco_churn)
+[Classification Project Repository](https://github.com/CSolitaire/telco_churn)
 
 **Overview:**
 - 5 min presentation delivered via zoom consisting of a complete walk-through of the data science pipeline and ending with a churn prediction model
@@ -28,7 +28,7 @@
 ### **Regression Project** 
 **Estimating Property Tax Value With Machine Learning**
 
-[Regression Project Link](https://github.com/CY-Data-Services/zillow_regression_project)   
+[Regression Project Repository](https://github.com/CY-Data-Services/zillow_regression_project)   
 
 
 [Regression Project Slide Deck](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
@@ -42,7 +42,7 @@
 ### **Clustering Project**
 **Estimating Logerror With Clustering and Machine Learning**
 
-[Clustering Project Link](https://github.com/CSolitaire/zillow_cluster_project)
+[Clustering Project Repository](https://github.com/CSolitaire/zillow_cluster_project)
 
 **Overview**
 - 5 min presentation delivered via zoom outlining creation and modeling of cluster data
@@ -53,7 +53,7 @@
 ### **Time Series Project**
 **Predicting Fitness Data with Time Series Analysis**
 
-[Time Series Project Link](https://github.com/CSolitaire/fitbit_time_series_project)
+[Time Series Project Repository](https://github.com/CSolitaire/fitbit_time_series_project)
 
 **Overview**
 - Passion project reconstructimng missing data using time series analysis
@@ -65,7 +65,7 @@
 ### **Anomaly Detection Mini-Project**
 **Identifying abnormal web traffic**
 
-[Anomaly Detection Project Link](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)  
+[Anomaly Detection Project Repository](https://github.com/CSolitaire/anomaly-detection-exercises/blob/main/anomaly_detection_mini_project.ipynb)  
 
 [Anomaly Detection Summary Slide](https://docs.google.com/presentation/d/16bXdsvtSRDfHJDbqBV_l1kIVWSinuuww9qQdHHIPc5Y/edit?usp=sharing)   
 
@@ -79,7 +79,7 @@
 ### **Natural Language Processing Project**
 **Classify primary language of GitHub README text**
 
-[NLP Project Link](https://github.com/AC-Readme/nlp_project)
+[NLP Project Repository](https://github.com/AC-Readme/nlp_project)
 
 [Anomaly Detection Slide Deck](https://docs.google.com/presentation/d/1uExigdX1uRlbnQSTpSOJH3AbTJnThjOM9qoH-pVSvig/edit?usp=sharing)
 
@@ -93,7 +93,7 @@
 ### **Topic Modeling Project**
 **Topic Modeleing of Geological GitHub README text**
 
-[Topic Modeling Project Link](https://github.com/CSolitaire/nlp_topic_modeling_project)
+[Topic Modeling Project Repository](https://github.com/CSolitaire/nlp_topic_modeling_project)
 
 [Topic Modeling Slide Deck](https://docs.google.com/presentation/d/1OIm27l0bVpZ_2eKB4S-uJLtNjd41P13Yy8sQVL9RzLs/edit?usp=sharing)
 
@@ -106,11 +106,14 @@
 ***
 ### **Capstone Project**
 **Evaluating the CDC's Social Vulnerability Index (SVI) as a tool to predict COVID infections in San Antonio Texas**   
-[Capstone Project Link](https://github.com/SVI-Capstone/svi_capstone)   
+   
+[Capstone Project Repository](https://github.com/SVI-Capstone/svi_capstone)  
 
-[Capstone Project Video]()   
+[Capstone Project Slide Deck]()   
+   
+[Capstone Project Video]()      
 
 **Overview**
 - The CDC's social vulnerability index (SVI) is a scale that predicts the vulnerability of a population in the event of an emergency or natural disaster. As COVID is the first global pandemic since the development of this measure, we aim to evaluate the association between SVI score and COVID infection count in San Antonio, Texas. Features from this measure will be incorporated into a predictive model that can be used to guide recovery resource prioritization.    
-- Created in Jupyter Notebook   
-- Audience: General   
+- Created in Jupyter Notebook      
+- Audience: General      
