@@ -109,7 +109,7 @@
    
 [Capstone Project Repository](https://github.com/SVI-Capstone/svi_capstone)  
 
-[Capstone Project Slide Deck]()   
+[Capstone Project Slide Deck](https://www.canva.com/design/DAESYoMIUtE/lZaZ79E8izoDDWZdfFA5zQ/view?utm_content=DAESYoMIUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   
    
 [Capstone Project Video]()      
 
