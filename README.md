@@ -105,7 +105,7 @@
 
 ***
 ### **Capstone Project**
-**Evaluating the CDC's Social Vulnerability Index (SVI) as a tool to predict COVID infections in San Antonio Texas**   
+**A Tale of Two Cities: Viewing the COVID pandemic through the lense of social voulnerability**   
    
 [Capstone Project Repository](https://github.com/SVI-Capstone/svi_capstone)  
 
