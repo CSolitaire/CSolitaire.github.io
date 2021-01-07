@@ -2,16 +2,20 @@
 
 ## Click on a link to explore my portfolio -
 
-****
-### **Story Telling Project** 
-**Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans**
+***
+### **Capstone Project**
+**A Tale of Two Cities: Viewing the COVID pandemic through the lense of social voulnerability**   
+   
+[Capstone Project Repository](https://github.com/SVI-Capstone/svi_capstone)  
 
-[Story Telling Project Link](/telco_visualization.pdf)
+[Capstone Project Slide Deck](https://www.canva.com/design/DAESYoMIUtE/lZaZ79E8izoDDWZdfFA5zQ/view?utm_content=DAESYoMIUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   
+   
+[Capstone Project Video]()      
 
-**Overview:**
-- 3 minute presentation delivered via zoom consisting of a data-based recommendation of a data driven change that will lead to a reduction in churn
-- Created in google slides, and utilizes visualizations from Tableau to support reccomendations and model outcomes
-- Audience: VP of ops + their team, VP of Sales will receive the presentation but will not be present 
+**Overview**
+- This project evaluates the effectiveness of utilizing the CDC’s Social Vulnerability Index (SVI) as a tool to predict COVID cases in San Antonio and Dallas, Texas. Understanding if SVI accurately predicts pandemic impact is critical for ensuring vulnerable populations do not miss out on critical resources. Additionally, knowing which features within the index might be more predictive would further aid officials in targeting resources to vulnerable communities.    
+- Created in Jupyter Notebook      
+- Audience: General  
 
 ****
 ### **Classification Project**
@@ -100,20 +104,15 @@
 **Overview**
 - Predict topics associated with Geology based GitHub repository README text using topic modeling and LDA feature selection tools
 - Created in Jupyter Notebook
-- Audience: Professional
+- Audience: Professional   
 
+****
+### **Story Telling Project** 
+**Optimizing Growth & Improving Churn: Examining Month-to-Month Contracts for Combined Service Plans**
 
-***
-### **Capstone Project**
-**A Tale of Two Cities: Viewing the COVID pandemic through the lense of social voulnerability**   
-   
-[Capstone Project Repository](https://github.com/SVI-Capstone/svi_capstone)  
+[Story Telling Project Link](/telco_visualization.pdf)
 
-[Capstone Project Slide Deck](https://www.canva.com/design/DAESYoMIUtE/lZaZ79E8izoDDWZdfFA5zQ/view?utm_content=DAESYoMIUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   
-   
-[Capstone Project Video]()      
-
-**Overview**
-- This project evaluates the effectiveness of utilizing the CDC’s Social Vulnerability Index (SVI) as a tool to predict COVID cases in San Antonio and Dallas, Texas. Understanding if SVI accurately predicts pandemic impact is critical for ensuring vulnerable populations do not miss out on critical resources. Additionally, knowing which features within the index might be more predictive would further aid officials in targeting resources to vulnerable communities.    
-- Created in Jupyter Notebook      
-- Audience: General      
+**Overview:**
+- 3 minute presentation delivered via zoom consisting of a data-based recommendation of a data driven change that will lead to a reduction in churn
+- Created in google slides, and utilizes visualizations from Tableau to support reccomendations and model outcomes
+- Audience: VP of ops + their team, VP of Sales will receive the presentation but will not be present 
