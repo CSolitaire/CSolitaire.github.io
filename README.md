@@ -10,7 +10,7 @@
 
 [Capstone Project Slide Deck](https://www.canva.com/design/DAESYoMIUtE/lZaZ79E8izoDDWZdfFA5zQ/view?utm_content=DAESYoMIUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   
    
-[Capstone Project Video]()      
+[Capstone Project Video](https://www.youtube.com/watch?v=WGvkiTRq1GY&feature=youtu.be)      
 
 **Overview**
 - This project evaluates the effectiveness of utilizing the CDC’s Social Vulnerability Index (SVI) as a tool to predict COVID cases in San Antonio and Dallas, Texas. Understanding if SVI accurately predicts pandemic impact is critical for ensuring vulnerable populations do not miss out on critical resources. Additionally, knowing which features within the index might be more predictive would further aid officials in targeting resources to vulnerable communities.    
