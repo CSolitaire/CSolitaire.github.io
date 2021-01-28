@@ -120,3 +120,7 @@
 - 3 minute presentation delivered via zoom consisting of a data-based recommendation of a data driven change that will lead to a reduction in churn
 - Created in google slides, and utilizes visualizations from Tableau to support reccomendations and model outcomes
 - Audience: VP of ops + their team, VP of Sales will receive the presentation but will not be present 
+
+***
+### **Test**
+[Dashboard Link](https://github.com/CSolitaire/climacell_project/blob/main/Climacell%20API.ipynb)
