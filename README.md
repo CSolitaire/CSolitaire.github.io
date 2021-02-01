@@ -123,4 +123,4 @@
 
 ***
 ### **Test**
-[Dashboard Link](https://github.com/CSolitaire/climacell_project/blob/main/Climacell%20API.ipynb)
+[Dashboard Link](http://localhost:8888/notebooks/climacell_dashboard.ipynb)
