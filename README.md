@@ -123,4 +123,4 @@
 
 ***
 ### **Test**
-[Dashboard Link](http://localhost:8888/notebooks/climacell_dashboard.ipynb)
+[Dashboard Link](https://nbviewer.jupyter.org/github/CSolitaire/climacell_project/blob/186e2923b9cee86c3df84127f0833dfa07d17bb4/climacell_dashboard.ipynb)
